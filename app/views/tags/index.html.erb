@@ -1,0 +1,7 @@
+<h1>Tags Available <%=@tag.count%></h1>
+<p>
+  Tags: <% @tag.each do |tag| %>
+  <%= link_to tag.name, tag_path(tag) %>
+<%= link_to "Delete", tag_path(tag), method: :delete, data: {confirm: "Really delete the tag and all of its associations??"}, id: tag.id %><br />
+  <%end%>
+</p>
