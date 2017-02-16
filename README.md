@@ -1,6 +1,6 @@
 # README
 
-# ${1: Blogger}
+# Blogger
 To read project instructions please visit:
 http://www.theodinproject.com/courses/web-development-101/lessons/ruby-on-rails
 
