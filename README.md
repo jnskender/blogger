@@ -16,7 +16,7 @@ Top take-aways from this project
 5. Using DRY and RESTful practices.  
 
 ##View Project
-https://jnskender.github.io/blogger/
+https://git.heroku.com/ancient-temple-13926.git
 
 ## Project Origin
 This application is a solution to a project as part of the curriculum at The Odin Project. To view the instructions to the project visit: http://www.theodinproject.com/courses/web-development-101/lessons/ruby-on-rails
