@@ -17,5 +17,10 @@ Top take-aways from this project
 
 ##View Project
 https://ancient-temple-13926.herokuapp.com
+-use email: admin@admin.com  
+     password: password
+
+for article creation
+
 ## Project Origin
 This application is a solution to a project as part of the curriculum at The Odin Project. To view the instructions to the project visit: http://www.theodinproject.com/courses/web-development-101/lessons/ruby-on-rails
