@@ -16,7 +16,7 @@ Top take-aways from this project
 5. Using DRY and RESTful practices.  
 
 ##View Project
-https://ancient-temple-13926.herokuapp.com
+https://ancient-temple-13926.herokuapp.com  
 -use email: admin@admin.com  
      password: password
 
